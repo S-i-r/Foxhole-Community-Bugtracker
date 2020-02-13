@@ -5,3 +5,6 @@ The Foxhole Community Bugtracker allows a cleaner, friendlier place to keep trac
 * Search for relevant existing issues prior to making a new one.
 * If referring to a Discord message from the Foxhole Official Discord, please include relevant information, and link to the original message.
 * Add information to existing issues, especially when you can replicate it
+
+### Disclaimer
+While game developers and moderators may be active here, this is an unofficial project designed to help clean up bug reports and provide clear details.
